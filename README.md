@@ -42,7 +42,7 @@
 
 ---
 ### GitHub cтатистика:
-[![Andrey Lutcenko GitHub stats](https://github-readme-stats.vercel.app/api?username=andreylutz&hide=issues&count_private=false&show_icons=true&theme=nightowl)](https://github.com/andreylutz)
+[![Andrey Lutcenko GitHub stats](https://github-readme-stats.vercel.app/api?username=andreylutz&show_icons=true&theme=nightowl)](https://github.com/andreylutz)
 
 [vkontakte]: https://vk.com/andrey_lutcenko
 [whatsapp]: https://wa.me/79001215204
