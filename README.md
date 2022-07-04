@@ -46,5 +46,5 @@
 
 [vkontakte]: https://vk.com/andrey_lutcenko
 [whatsapp]: https://wa.me/+79001215204
-[telegram]: https://t-do.ru/@Andrey_Lucenko
+[telegram]: https://t.me/@Andrey_Lucenko
 [git]: https://github.com/andreylutz
