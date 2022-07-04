@@ -45,6 +45,6 @@
 [![Andrey Lutcenko GitHub stats](https://github-readme-stats.vercel.app/api?username=andreylutz&total_stars=false&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/andreylutz)
 
 [vkontakte]: https://vk.com/andrey_lutcenko
-[whatsapp]: https://wa.me/89001215204
+[whatsapp]: https://wa.me/+79001215204
 [telegram]: https://t-do.ru/@Andrey_Lucenko
 [git]: https://github.com/andreylutz
