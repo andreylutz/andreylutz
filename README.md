@@ -1,15 +1,15 @@
 ### Привет! Я - Андрей, frontend разработчик!
 
-- 👀 Интересуюсь web-разработкой и путешествиями
+- 👀 Интересуюсь web-разработкой, альпинизмом и путешествиями
 - :space_invader: PERN stack
 - 📫 Как связаться: andreylutcenko123@gmail.com
 
 ---
 ### Контакты:
 
-[<img align="left" alt="juljuliks | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" />][vkontakte]
-[<img align="left" alt="juljuliks | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/>][telegram]
-[<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
+[<img align="left" alt="Lutcenko | Vkontakte" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" />][vkontakte]
+[<img align="left" alt="Lutcenko | Telegram" width="40px" src="https://static.vecteezy.com/system/resources/previews/026/127/326/original/telegram-logo-telegram-icon-transparent-social-media-icons-free-png.png"/>][telegram]
+[<img align="left" alt="Lutcenko | WhatsApp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" />][whatsapp]
 
 <br/>
 <br/>
