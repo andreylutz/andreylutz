@@ -1,6 +1,6 @@
-### Привет! Я - Андрей, fullstack разработчик!
+### Привет! Я - Андрей, frontend разработчик!
 
-- 👀 Интересуюсь web-разработкой, велоспортом, путешествиями
+- 👀 Интересуюсь web-разработкой и путешествиями
 - :space_invader: PERN stack
 - 📫 Как связаться: andreylutcenko123@gmail.com
 
@@ -21,7 +21,7 @@
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
-[<img align="left" alt="Node.js" width="32px" src="https://web-creator.ru/uploads/Page/22/nodejs.svg" />][git]
+[<img align="left" alt="Node.js" width="32px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />][git]
 [<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
@@ -34,10 +34,10 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TypeScript, React, React SSR, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
-- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets
-- **Базы данных**: PostgreSQL, Sequelize ORM
-- **A также**: Jest, REST
+- **Фронтенд**: JS, TS, Vue, React, React SSR, Redux (Saga, Thunk, Toolkit), Vuex, X-State, HTML5, Webpack, CSS3, SCSS
+- **Бекенд**: Node.js, Express.js
+- **Базы данных**: SQL, MySQL, PostgreSQL, Sequelize ORM
+- **Тестирование**: Jest
 
 
 ---
