@@ -1,26 +1,31 @@
-### Привет! Я — Андрей, frontend-разработчик
+### Hi there! I'm Andrey — Frontend Developer 👋
 
-💻 3+ года коммерческого опыта, работал с крупными B2B-продуктами и клиентскими веб-приложениями. Специализируюсь на создании масштабируемых интерфейсов, улучшении DX, оптимизации рендеринга, интеграции сложной UI-логики и работе с современным фронтенд-стеком.
+💻 3+ years of commercial experience building B2B systems and customer-facing web apps.  
+I specialize in scalable interfaces, rendering optimization, UI/UX collaboration, and improving Developer Experience.
 
-- 👀 Интересуюсь web-разработкой, 3D-графикой, альпинизмом и путешествиями
-- 🧠 Люблю автоматизировать процессы и улучшать Developer Experience
-- :space_invader: Стек: TypeScript, Vue, React, Node.js, SSR, микрофронтенды, CI/CD
-- 📫 Связь: andreylutcenko123@gmail.com
+- 🔍 Passionate about web development, 3D graphics, mountaineering, and travel
+- ⚙️ I enjoy automating processes and refining team workflows
+- 🚀 Stack: TypeScript, Vue, React, Node.js, SSR, Microfrontends, CI/CD
+- 📫 Reach me at: andreylutcenko123@gmail.com
 
 ---
 
-### 📬 Контакты:
+### 📬 Contact:
 
-[<img align="left" alt="Lutcenko | Vkontakte" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" />][vkontakte]
+[<img align="left" alt="Lutcenko | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" />][vkontakte]
 [<img align="left" alt="Lutcenko | Telegram" width="40px" src="https://static.vecteezy.com/system/resources/previews/026/127/326/original/telegram-logo-telegram-icon-transparent-social-media-icons-free-png.png"/>][telegram]
 [<img align="left" alt="Lutcenko | WhatsApp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" />][whatsapp]
 
 <br/>
 <br/>
 
+### 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/CV_Frontend_Dev_Andrey_Lucenko.pdf)
+
 ---
 
-### 🛠️ Технологии и инструменты:
+### 🛠️ Tech & Tools:
 
 [<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][git]
 [<img align="left" alt="TypeScript" width="36px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
@@ -41,19 +46,19 @@
 <br/>
 <br/>
 
-### 🧠 Стек и опыт:
+### 🔧 My Stack:
 
-- **Фронтенд**: JavaScript, TypeScript, Vue 2/3, React, SSR, Micro Frontends, Vue Flow, XState, Fabric.js, Vuetify, Ant Design
-- **Бекенд**: Node.js, Express.js
-- **DevOps/Инфраструктура**: Docker, CI/CD, Linux, Git
-- **Инструменты**: Webpack, Vite, Gulp, ESLint, Prettier
-- **Базы данных**: PostgreSQL, SQL, Sequelize, IndexDB
-- **Тестирование**: Jest, unit/integration tests
-- **Прочее**: OAuth2, WebSockets, SignalR, создание компонентных библиотек
+- **Frontend**: JavaScript, TypeScript, Vue 2/3, React, SSR, Microfrontends, Vue Flow, XState, Vuetify, Ant Design
+- **Backend**: Node.js, Express.js
+- **DevOps**: Docker, Git, Linux, CI/CD
+- **Build Tools**: Vite, Webpack, Gulp
+- **Testing**: Jest (unit & integration)
+- **Databases**: PostgreSQL, SQL, Sequelize, IndexDB
+- **Other**: OAuth2, SignalR, WebSockets, custom component libraries
 
 ---
 
-### 📊 GitHub статистика:
+### 📊 GitHub Stats:
 
 [![Andrey Lutcenko GitHub stats](https://github-readme-stats.vercel.app/api?username=andreylutz&total_stars=false&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/andreylutz)
 
