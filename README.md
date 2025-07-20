@@ -1,11 +1,15 @@
-### Привет! Я - Андрей, frontend разработчик!
+### Привет! Я — Андрей, frontend-разработчик
 
-- 👀 Интересуюсь web-разработкой, альпинизмом и путешествиями
-- :space_invader: PERN stack
-- 📫 Как связаться: andreylutcenko123@gmail.com
+💻 3+ года коммерческого опыта, работал с крупными B2B-продуктами и клиентскими веб-приложениями. Специализируюсь на создании масштабируемых интерфейсов, улучшении DX, оптимизации рендеринга, интеграции сложной UI-логики и работе с современным фронтенд-стеком.
+
+- 👀 Интересуюсь web-разработкой, 3D-графикой, альпинизмом и путешествиями
+- 🧠 Люблю автоматизировать процессы и улучшать Developer Experience
+- :space_invader: Стек: TypeScript, Vue, React, Node.js, SSR, микрофронтенды, CI/CD
+- 📫 Связь: andreylutcenko123@gmail.com
 
 ---
-### Контакты:
+
+### 📬 Контакты:
 
 [<img align="left" alt="Lutcenko | Vkontakte" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" />][vkontakte]
 [<img align="left" alt="Lutcenko | Telegram" width="40px" src="https://static.vecteezy.com/system/resources/previews/026/127/326/original/telegram-logo-telegram-icon-transparent-social-media-icons-free-png.png"/>][telegram]
@@ -15,36 +19,47 @@
 <br/>
 
 ---
-### Мой стек:
 
-[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
+### 🛠️ Технологии и инструменты:
+
+[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][git]
 [<img align="left" alt="TypeScript" width="36px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
-[<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
+[<img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"/>][git]
+[<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
-[<img align="left" alt="Node.js" width="36px" src="https://tanhakabir.gallerycdn.vsassets.io/extensions/tanhakabir/node-js-education-extension-pack/0.0.2/1614646389779/Microsoft.VisualStudio.Services.Icons.Default" />][git]
-[<img align="left" alt="SQL" width="36px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
-[<img align="left" alt="PostgreSQL" width="36px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
+[<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][git]
+[<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />][git]
 [<img align="left" alt="Git" width="36px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
-[<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
-[<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][git]
-[<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
+[<img align="left" alt="Vite" width="36px" src="https://vitejs.dev/logo.svg"/>][git]
+[<img align="left" alt="Webpack" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png"/>][git]
+[<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][git]
+[<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][git]
+[<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][git]
+[<img align="left" alt="PostgreSQL" width="36px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 
 <br/>
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TS, Vue, React, React SSR, Redux (Saga, Thunk, Toolkit), Vuex, X-State, HTML5, Webpack, CSS3, SCSS
+### 🧠 Стек и опыт:
+
+- **Фронтенд**: JavaScript, TypeScript, Vue 2/3, React, SSR, Micro Frontends, Vue Flow, XState, Fabric.js, Vuetify, Ant Design
 - **Бекенд**: Node.js, Express.js
-- **Базы данных**: SQL, MySQL, PostgreSQL, Sequelize ORM
-- **Тестирование**: Jest
-
+- **DevOps/Инфраструктура**: Docker, CI/CD, Linux, Git
+- **Инструменты**: Webpack, Vite, Gulp, ESLint, Prettier
+- **Базы данных**: PostgreSQL, SQL, Sequelize, IndexDB
+- **Тестирование**: Jest, unit/integration tests
+- **Прочее**: OAuth2, WebSockets, SignalR, создание компонентных библиотек
 
 ---
-### GitHub cтатистика:
+
+### 📊 GitHub статистика:
+
 [![Andrey Lutcenko GitHub stats](https://github-readme-stats.vercel.app/api?username=andreylutz&total_stars=false&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/andreylutz)
 
+---
+
 [vkontakte]: https://vk.com/andrey_lutcenko
-[whatsapp]: https://wa.me/+79001215204
 [telegram]: https://t.me/Andrey_Lucenko
+[whatsapp]: https://wa.me/+79001215204
 [git]: https://github.com/andreylutz
