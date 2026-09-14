@@ -1,70 +1,49 @@
-### Hi there! I'm Andrey — Frontend Developer 👋
+# Andrey Lutcenko
 
-💻 3+ years of commercial experience building B2B systems and customer-facing web apps.  
-I specialize in scalable interfaces, rendering optimization, UI/UX collaboration, and improving Developer Experience.
+### Frontend Developer · TypeScript / Vue / React
 
-- 🔍 Passionate about web development, 3D graphics, mountaineering, and travel
-- ⚙️ I enjoy automating processes and refining team workflows
-- 🚀 Stack: TypeScript, Vue, React, Node.js, SSR, Microfrontends, CI/CD
-- 📫 Reach me at: andreylutcenko123@gmail.com
+I build B2B systems and customer-facing web apps, with **3+ years of commercial experience**. My focus is scalable interfaces, rendering performance, and thoughtful collaboration with UI/UX teams.
 
----
-
-### 📬 Contact:
-
-[<img align="left" alt="Lutcenko | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1024px-VK_Compact_Logo_%282021-present%29.svg.png" />][vkontakte]
-[<img align="left" alt="Lutcenko | Telegram" width="40px" src="https://static.vecteezy.com/system/resources/previews/026/127/326/original/telegram-logo-telegram-icon-transparent-social-media-icons-free-png.png"/>][telegram]
-[<img align="left" alt="Lutcenko | WhatsApp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" />][whatsapp]
-
-<br/>
-<br/>
-
-### 📄 Resume
-
-[![Download Resume](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/CV_Frontend_Dev_Andrey_Lucenko.pdf)
+<p>
+  <a href="https://t.me/Andrey_Lucenko"><img src="./assets/profile/telegram.svg" alt="Message me on Telegram" width="136" height="40"></a>
+  <a href="mailto:andreylutcenko123@gmail.com"><img src="./assets/profile/email.svg" alt="Email: andreylutcenko123@gmail.com" width="112" height="40"></a>
+  <a href="https://vk.com/andrey_lutcenko"><img src="./assets/profile/vk.svg" alt="My VK profile" width="92" height="40"></a>
+  <a href="https://wa.me/79001215204"><img src="./assets/profile/whatsapp.svg" alt="Message me on WhatsApp" width="144" height="40"></a>
+  <a href="./assets/CV_Frontend_Dev_Andrey_Lucenko.pdf"><img src="./assets/profile/resume.svg" alt="Read my resume (PDF)" width="166" height="40"></a>
+</p>
 
 ---
 
-### 🛠️ Tech & Tools:
+## What I work on
 
-[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][git]
-[<img align="left" alt="TypeScript" width="36px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
-[<img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"/>][git]
-[<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][git]
-[<img align="left" alt="Redux"  width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
-[<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][git]
-[<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />][git]
-[<img align="left" alt="Git" width="36px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-[<img align="left" alt="Vite" width="36px" src="https://vitejs.dev/logo.svg"/>][git]
-[<img align="left" alt="Webpack" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png"/>][git]
-[<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][git]
-[<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][git]
-[<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][git]
-[<img align="left" alt="PostgreSQL" width="36px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
+- **Frontend architecture** — scalable interfaces, SSR, microfrontends, and custom component libraries.
+- **Performance & experience** — rendering optimization and close collaboration with UI/UX teams.
+- **Developer experience** — process automation, tooling, and better team workflows.
 
-<br/>
-<br/>
-<br/>
+## Tech stack
 
-### 🔧 My Stack:
+<p>
+  <img src="./assets/profile/typescript.svg" alt="TypeScript" width="142" height="38">
+  <img src="./assets/profile/vue.svg" alt="Vue.js" width="111" height="38">
+  <img src="./assets/profile/react.svg" alt="React" width="108" height="38">
+  <img src="./assets/profile/node.svg" alt="Node.js" width="120" height="38">
+  <img src="./assets/profile/vite.svg" alt="Vite" width="98" height="38">
+  <img src="./assets/profile/postgresql.svg" alt="PostgreSQL" width="154" height="38">
+</p>
 
-- **Frontend**: JavaScript, TypeScript, Vue 2/3, React, SSR, Microfrontends, Vue Flow, XState, Vuetify, Ant Design
-- **Backend**: Node.js, Express.js
-- **DevOps**: Docker, Git, Linux, CI/CD
-- **Build Tools**: Vite, Webpack, Gulp
-- **Testing**: Jest (unit & integration)
-- **Databases**: PostgreSQL, SQL, Sequelize, IndexDB
-- **Other**: OAuth2, SignalR, WebSockets, custom component libraries
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | JavaScript, TypeScript, Vue 2/3, React, Redux, HTML, CSS, Sass |
+| Architecture & UI | SSR, microfrontends, Vue Flow, XState, Vuetify, Ant Design, custom component libraries |
+| Backend & real-time | Node.js, Express.js, OAuth 2.0, SignalR, WebSockets |
+| Data | PostgreSQL, SQL, Sequelize, IndexedDB |
+| Build & delivery | Vite, Webpack, Gulp, Docker, Git, Linux, CI/CD |
+| Testing | Jest — unit & integration tests |
 
----
+## Beyond code
 
-### 📊 GitHub Stats:
-
-[![Andrey Lutcenko GitHub stats](https://github-readme-stats.vercel.app/api?username=andreylutz&total_stars=false&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/andreylutz)
+I'm interested in 3D graphics, mountaineering, and travel. I enjoy finding ways to automate repetitive work and make everyday development smoother.
 
 ---
 
-[vkontakte]: https://vk.com/andrey_lutcenko
-[telegram]: https://t.me/Andrey_Lucenko
-[whatsapp]: https://wa.me/+79001215204
-[git]: https://github.com/andreylutz
+**Let's connect:** [Telegram](https://t.me/Andrey_Lucenko) · [Email](mailto:andreylutcenko123@gmail.com) · [Resume (PDF)](./assets/CV_Frontend_Dev_Andrey_Lucenko.pdf)
