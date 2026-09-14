@@ -5,7 +5,7 @@
 I build B2B systems and customer-facing web apps, with **3+ years of commercial experience**. My focus is scalable interfaces, rendering performance, and thoughtful collaboration with UI/UX teams.
 
 <p>
-  <a href="https://t.me/Andrey_Lucenko"><img src="./assets/profile/telegram.svg" alt="Message me on Telegram" width="136" height="40"></a>
+  <a href="https://t.me/andLucenko"><img src="./assets/profile/telegram.svg" alt="Message me on Telegram" width="136" height="40"></a>
   <a href="mailto:andreylutcenko123@gmail.com"><img src="./assets/profile/email.svg" alt="Email: andreylutcenko123@gmail.com" width="112" height="40"></a>
   <a href="https://vk.com/andrey_lutcenko"><img src="./assets/profile/vk.svg" alt="My VK profile" width="92" height="40"></a>
   <a href="https://wa.me/79001215204"><img src="./assets/profile/whatsapp.svg" alt="Message me on WhatsApp" width="144" height="40"></a>
