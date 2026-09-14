@@ -46,4 +46,4 @@ I'm interested in 3D graphics, mountaineering, and travel. I enjoy finding ways 
 
 ---
 
-**Let's connect:** [Telegram](https://t.me/Andrey_Lucenko) · [Email](mailto:andreylutcenko123@gmail.com) · [Resume (PDF)](./assets/CV_Frontend_Dev_Andrey_Lucenko.pdf)
+**Let's connect:** [Telegram](https://t.me/andLucenko) · [Email](mailto:andreylutcenko123@gmail.com) · [Resume (PDF)](./assets/CV_Frontend_Dev_Andrey_Lucenko.pdf)
