@@ -1,4 +1,4 @@
-# Andrey Lutcenko
+# Andrey Lucenko
 
 ### Frontend Developer · TypeScript / Vue / React
 
